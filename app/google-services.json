@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210712546541",
+    "project_id": "sharingiscaring-caf90",
+    "storage_bucket": "sharingiscaring-caf90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210712546541:android:86ea731f23e5ec040c10e4",
+        "android_client_info": {
+          "package_name": "com.myapp.snc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210712546541-l5t8r998deg4hrg9kumdcmkq3018hg49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.snc",
+            "certificate_hash": "cef71e0cd270a71d6249a7a5d92aea84134bdd84"
+          }
+        },
+        {
+          "client_id": "210712546541-h8cf3p3o043jtma15e6gqict8gm18tuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3mRCBqVvi7WUt0J9SdzQ11nN7VCjT1sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210712546541-h8cf3p3o043jtma15e6gqict8gm18tuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
